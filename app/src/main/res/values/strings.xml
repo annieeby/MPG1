@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MPG1</string>
+    <string name="lastMileage">Last Mileage</string>
+    <string name="currentMileage">CurrentMileage</string>
+    <string name="amtPaid">Amount Paid</string>
+    <string name="numGallons">Gallons</string>
+    <string name="costGallon">Price per Gallon</string>
+    <string name="calcBtn">Calculate MPG</string>
+    <string name="result">MPG</string>
+
+</resources>
